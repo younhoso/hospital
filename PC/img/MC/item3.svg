@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="302px" viewBox="0 0 262 302" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="50%" x2="21.8294098%" y2="20.5891495%" id="linearGradient-1">
+            <stop stop-color="#8D7047" offset="0%"></stop>
+            <stop stop-color="#BB9A6D" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="130 0 242.583302 65 242.583302 195 130 260 17.4166975 195 17.4166975 65"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="미세자가지방이식-" transform="translate(-829.000000, -1129.000000)">
+            <g id="Group-5" transform="translate(810.000000, 1130.000000)">
+                <g id="Group-3-Copy">
+                    <polygon id="Polygon-2-Copy-2" stroke="#8D7047" stroke-width="0.738405462" opacity="0.3" points="150 0 279.903811 75 279.903811 225 150 300 20.0961894 225 20.0961894 75"></polygon>
+                    <g id="Group-7" transform="translate(20.000000, 20.000000)">
+                        <g id="Polygon-2-Copy-2">
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use stroke="#8D7047" stroke-width="0.738405462" fill="#FFFFFF" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+                <text id="미백" font-family="AppleSDGothicNeo-Bold, Apple SD Gothic Neo" font-size="35" font-weight="bold" fill="#8D7047">
+                    <tspan x="120.225" y="161">미백</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

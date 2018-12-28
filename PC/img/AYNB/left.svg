@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="19px" viewBox="0 0 10 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/control/left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.09875,5.82120876 L19.09875,5.87584879 C19.0920913,6.0836453 19.0094247,6.28899666 18.85075,6.445875 L12.302,12.994625 C11.91075,13.385875 11.69575,13.908375 11.69575,14.460875 C11.69575,15.014625 11.91075,15.532125 12.302,15.923375 L18.85075,22.472125 C19.0094247,22.6307997 19.0920913,22.8362264 19.09875,23.0437524 L19.09875,23.0983129 C19.0920913,23.3058629 19.0094247,23.5116016 18.85075,23.670875 C18.68575,23.835875 18.467,23.919625 18.252,23.919625 C18.03325,23.919625 17.817,23.835875 17.652,23.670875 L11.102,17.120875 C10.4066402,16.4267395 10.0158217,15.5035985 10,14.5228938 L10,14.3986337 C10.0158217,13.414553 10.4066402,12.4949332 11.102,11.797125 L17.652,5.248375 C17.9845,4.917125 18.5195,4.917125 18.85075,5.248375 C19.0094247,5.40704966 19.0920913,5.61333686 19.09875,5.82120992 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="연세-자연미-소개" transform="translate(-1436.000000, -3015.000000)">
+            <g id="normal" transform="translate(1411.000000, 2995.000000)">
+                <g id="-round/ver1/control/left" transform="translate(15.000000, 15.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="swatch/blue" mask="url(#mask-2)" fill="#67B2DF" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="31" height="30"></rect>
+                    </g>
+                    <g id="gray/lighten-6" mask="url(#mask-2)" fill="#F4F6F8" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

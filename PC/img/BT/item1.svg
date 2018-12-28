@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="286px" height="330px" viewBox="0 0 286 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="50%" x2="21.8294098%" y2="20.5891495%" id="linearGradient-1">
+            <stop stop-color="#8D7047" offset="0%"></stop>
+            <stop stop-color="#BB9A6D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M41.621875,14.331563 L47.176875,8.77656296 L48.891875,10.494063 L43.339375,16.049063 C43.329375,16.059063 43.326875,16.074063 43.314375,16.084063 L41.586875,14.356563 C41.596875,14.344063 41.611875,14.341563 41.621875,14.331563 Z M39.809375,25.839063 L37.754375,23.784063 C37.121875,23.149063 36.091875,23.149063 35.456875,23.784063 C34.824375,24.416563 34.821875,25.446563 35.456875,26.081563 L37.511875,28.136563 L35.354375,30.294063 L33.299375,28.239063 C32.664375,27.604063 31.636875,27.604063 31.001875,28.239063 C30.366875,28.874063 30.366875,29.904063 31.001875,30.536563 L33.056875,32.591563 L30.896875,34.751563 L23.251875,27.104063 L36.496875,13.861563 L44.141875,21.506563 L39.809375,25.839063 Z M19.994375,44.416563 L13.586875,38.009063 C13.244375,37.666563 13.244375,37.111563 13.586875,36.771563 L20.954375,29.404063 L28.599375,37.049063 L26.441875,39.206563 L24.386875,37.151563 C23.751875,36.519063 22.721875,36.519063 22.089375,37.151563 C21.454375,37.786563 21.454375,38.814063 22.089375,39.449063 L24.144375,41.504063 L21.231875,44.416563 C20.891875,44.756563 20.334375,44.756563 19.994375,44.416563 Z M13.801875,44.924063 C13.404375,45.321563 12.681875,44.596563 13.079375,44.201563 L14.131875,43.149063 L14.854375,43.871563 L13.801875,44.924063 Z M32.861875,10.226563 L34.196875,11.564063 L11.289375,34.474063 C9.681875,36.081563 9.681875,38.699063 11.289375,40.306563 L11.834375,40.849063 L10.781875,41.901563 C9.729375,42.956563 9.444375,44.481563 9.904375,45.799063 L2.974375,52.729063 C2.341875,53.364063 2.341875,54.394063 2.974375,55.029063 C3.609375,55.661563 4.639375,55.661563 5.271875,55.026563 L12.201875,48.096563 C13.521875,48.556563 15.046875,48.274063 16.101875,47.221563 L17.151875,46.169063 L17.696875,46.714063 C19.304375,48.321563 21.921875,48.321563 23.531875,46.714063 L46.439375,23.804063 L47.776875,25.141563 C48.411875,25.776563 49.439375,25.776563 50.074375,25.141563 C50.709375,24.506563 50.709375,23.479063 50.074375,22.844063 L45.601875,18.371563 C45.611875,18.359063 45.626875,18.356563 45.636875,18.346563 L51.191875,12.791563 L52.729375,14.331563 C53.364375,14.966563 54.394375,14.966563 55.026875,14.331563 C55.661875,13.699063 55.661875,12.669063 55.026875,12.034063 L45.969375,2.97406296 C45.334375,2.34156296 44.304375,2.34156296 43.669375,2.97656296 C43.036875,3.60906296 43.036875,4.63906296 43.669375,5.27156296 L44.879375,6.47906296 L39.324375,12.034063 C39.314375,12.044063 39.311875,12.059063 39.299375,12.071563 L35.159375,7.92906296 C34.524375,7.29406296 33.496875,7.29406296 32.861875,7.92656296 C32.226875,8.56156296 32.226875,9.59156296 32.861875,10.226563 Z" id="path-2"></path>
+        <linearGradient x1="16.5947228%" y1="11.1819692%" x2="54.6139066%" y2="57.2734035%" id="linearGradient-4">
+            <stop stop-color="#BB9A6D" offset="0%"></stop>
+            <stop stop-color="#8D7047" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-5" cx="16.875" cy="16.875" r="16.875"></circle>
+        <filter x="-26.7%" y="-26.7%" width="153.3%" height="153.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="보톡스" transform="translate(-418.000000, -1144.000000)">
+            <g id="Group-14" transform="translate(396.000000, 1144.000000)">
+                <g id="Group-11">
+                    <g id="Group-4" fill="url(#linearGradient-1)">
+                        <g id="Group-3">
+                            <polygon id="Polygon-2-Copy-2" opacity="0.1" points="165 0 307.894192 82.5 307.894192 247.5 165 330 22.1058084 247.5 22.1058084 82.5"></polygon>
+                            <g id="Group-7" transform="translate(22.000000, 22.000000)">
+                                <polygon id="Polygon-2-Copy-2" points="143 0 266.841633 71.5 266.841633 214.5 143 286 19.1583673 214.5 19.1583673 71.5"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="Safety" font-family="Montserrat-Bold, Montserrat" font-size="35" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="108.0025" y="200">Safety</tspan>
+                    </text>
+                    <text id="안전성" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="22" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="135.14" y="234">안전성</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(135.000000, 82.000000)">
+                    <g id="-round/ver1/syringe">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill="#00A0E8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <g id="swatch/brown" mask="url(#mask-3)" fill="#8D7047" fill-rule="evenodd">
+                            <rect id="Rectangle" x="0" y="0" width="63" height="60"></rect>
+                        </g>
+                        <g id="white" mask="url(#mask-3)" fill="#FFFFFF" fill-rule="nonzero">
+                            <rect id="Rectangle" x="0" y="0" width="60" height="60"></rect>
+                        </g>
+                    </g>
+                    <g id="正品" transform="translate(22.500000, 30.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <text mask="url(#mask-6)" font-family="AppleSDGothicNeo-Bold, Apple SD Gothic Neo" font-size="12" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="6.87" y="22.375">正品</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

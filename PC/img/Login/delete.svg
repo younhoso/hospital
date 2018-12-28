@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title> round/ver1/control/delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.516375,12.474775 L7.1985,8.1569 C6.9335,7.8919 6.9335,7.4639 7.1985,7.1989 C7.4625,6.9339 7.8915,6.9339 8.1565,7.1989 L12.474325,11.516725 L16.7917,7.1989 C17.0567,6.9339 17.4857,6.9339 17.7497,7.1989 C18.0147,7.4639 18.0147,7.8919 17.7497,8.1569 L13.432325,12.474725 L17.7505,16.7929 C18.0145,17.0569 18.0145,17.4859 17.7505,17.7509 C17.6185,17.8829 17.4465,17.9509 17.2715,17.9509 C17.0965,17.9509 16.9245,17.8829 16.7925,17.7509 L12.474375,13.432775 L8.1567,17.7509 C8.0247,17.8829 7.8527,17.9509 7.6777,17.9509 C7.5027,17.9509 7.3277,17.8829 7.1987,17.7509 C6.9337,17.4859 6.9337,17.0569 7.1987,16.7929 L11.516375,12.474775 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="id-search_success" transform="translate(-1138.000000, -636.000000)">
+            <g id="Group-3" transform="translate(764.000000, 601.000000)">
+                <g id="-round/ver1/control/delete" transform="translate(367.000000, 28.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="swatch/white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="25" height="24"></rect>
+                    </g>
+                    <g id="black" mask="url(#mask-2)" fill="#000000" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1201px" height="651px" viewBox="0 0 1201 651" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1180,149.427495 L1181,149.42368 L1181,631 L1,631 L1,193.53067 L0,193.53067 L0,0 L20.9861861,0 C22.4050942,6.27215309 28.5439437,10.9960608 35.9212902,10.9960608 C43.2986368,10.9960608 49.4374863,6.27215309 50.8515184,0 L71.3598592,0 C72.7738912,6.27215309 78.9176167,10.9960608 86.2900873,10.9960608 C93.6674339,10.9960608 99.8111594,6.27215309 101.225191,0 L121.738408,0 C123.147564,6.27215309 129.29129,10.9960608 136.66376,10.9960608 C144.041107,10.9960608 150.184832,6.27215309 151.593989,0 L172.107205,0 C173.516361,6.27215309 179.660087,10.9960608 187.032557,10.9960608 C194.409904,10.9960608 200.55363,6.27215309 201.962786,0 L222.476002,0 C223.885158,6.27215309 230.028884,10.9960608 237.401355,10.9960608 C244.773825,10.9960608 250.922427,6.27215309 252.331583,0 L272.844799,0 C274.258832,6.27215309 280.402557,10.9960608 287.775028,10.9960608 C295.152374,10.9960608 301.2961,6.27215309 302.710132,0 L323.213597,0 C324.627629,6.27215309 330.77623,10.9960608 338.143825,10.9960608 C345.521171,10.9960608 351.664897,6.27215309 353.078929,0 L373.592146,0 C375.001302,6.27215309 381.149903,10.9960608 388.517498,10.9960608 C395.894844,10.9960608 402.03857,6.27215309 403.447726,0 L423.960943,0 C425.370099,6.27215309 431.5187,10.9960608 438.891171,10.9960608 C446.263641,10.9960608 452.407367,6.27215309 453.816523,0 L474.324864,0 C475.738896,6.27215309 481.877745,10.9960608 489.259968,10.9960608 C496.622686,10.9960608 502.776164,6.27215309 504.18532,0 L524.698537,0 C526.112569,6.27215309 532.256294,10.9960608 539.633641,10.9960608 C547.006111,10.9960608 553.149837,6.27215309 554.563869,0 L575.067334,0 C576.481366,6.27215309 582.629967,10.9960608 590.002438,10.9960608 C597.374909,10.9960608 603.518634,6.27215309 604.932666,0 L625.436131,0 C626.850163,6.27215309 632.998764,10.9960608 640.371235,10.9960608 C647.748582,10.9960608 653.887431,6.27215309 655.301463,0 L675.81468,0 C677.223836,6.27215309 683.372438,10.9960608 690.744908,10.9960608 C698.122255,10.9960608 704.261104,6.27215309 705.67026,0 L726.183477,0 C727.592633,6.27215309 733.736359,10.9960608 741.113705,10.9960608 C748.486176,10.9960608 754.629901,6.27215309 756.039057,0 L776.552274,0 C777.966306,6.27215309 784.110032,10.9960608 791.482502,10.9960608 C798.859849,10.9960608 804.998698,6.27215309 806.41273,0 L826.925947,0 C828.339979,6.27215309 834.483705,10.9960608 841.856175,10.9960608 C849.233522,10.9960608 855.377247,6.27215309 856.791279,0 L877.294744,0 C878.708776,6.27215309 884.852502,10.9960608 892.224972,10.9960608 C899.602319,10.9960608 905.746044,6.27215309 907.160077,0 L927.668417,0 C929.077573,6.27215309 935.226175,10.9960608 942.593769,10.9960608 C949.971116,10.9960608 956.114842,6.27215309 957.528874,0 L978.04209,0 C979.451246,6.27215309 985.599848,10.9960608 992.967443,10.9960608 C1000.34479,10.9960608 1006.48851,6.27215309 1007.89767,0 L1028.41089,0 C1029.82004,6.27215309 1035.96865,10.9960608 1043.33624,10.9960608 C1050.71359,10.9960608 1056.85731,6.27215309 1058.26647,0 L1078.77968,0 C1080.19372,6.27215309 1086.34232,10.9960608 1093.70991,10.9960608 C1101.08726,10.9960608 1107.23098,6.27215309 1108.64502,0 L1129.14848,0 C1130.56251,6.27215309 1136.71112,10.9960608 1144.07871,10.9960608 C1151.45606,10.9960608 1157.59978,6.27215309 1159.01381,0 L1180,0 L1180,149.427495 Z" id="path-1"></path>
+        <filter x="-1.3%" y="-2.4%" width="102.5%" height="104.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tan-박피술" transform="translate(-360.000000, -2798.000000)">
+            <g id="Group-4" transform="translate(370.000000, 2808.000000)">
+                <g id="Group-3">
+                    <g id="Rectangle-9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <rect id="Rectangle-16" fill="#8D7047" opacity="0.200000003" x="0" y="220" width="1180" height="1"></rect>
+                <rect id="Rectangle-16-Copy-10" fill="#8D7047" opacity="0.200000003" x="0" y="205" width="1180" height="5"></rect>
+                <rect id="Rectangle-16-Copy-8" fill="#8D7047" opacity="0.200000003" x="0" y="50" width="1180" height="1"></rect>
+                <rect id="Rectangle-16-Copy-9" fill="#8D7047" opacity="0.200000003" x="0" y="61" width="1180" height="5"></rect>
+                <text id="TAN이-필요한-분들!" font-family="Montserrat-Bold, Montserrat" font-size="35" font-weight="bold" fill="#8D7047">
+                    <tspan x="60" y="120">TAN</tspan>
+                    <tspan x="133.43" y="120" font-family="NotoSansCJKkr-Thin, Noto Sans CJK KR" font-style="condensed" font-weight="300">이 필요한 분들!</tspan>
+                </text>
+                <rect id="Rectangle-4" stroke="#E9E9E9" fill="#FFFFFF" x="100.5" y="271.5" width="979" height="59"></rect>
+                <rect id="Rectangle-4-Copy-4" stroke="#E9E9E9" fill="#FFFFFF" x="100.5" y="431.5" width="979" height="59"></rect>
+                <rect id="Rectangle-4-Copy" stroke="#E9E9E9" fill="#F8F8F8" x="100.5" y="351.5" width="979" height="59"></rect>
+                <rect id="Rectangle-4-Copy-5" stroke="#E9E9E9" fill="#F8F8F8" x="100.5" y="511.5" width="979" height="59"></rect>
+                <text id="팔자주름,-이마주름,-목-주름이-심해" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="22" font-weight="bold" fill="#555555">
+                    <tspan x="225" y="311">팔자주름, 이마주름, 목 주름이 심해 기존시술의 효과를 경험하지 못한 경우</tspan>
+                </text>
+                <text id="적은-통증으로-빠른-효과를-경험하고" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="22" font-weight="bold" fill="#555555">
+                    <tspan x="225" y="471">적은 통증으로 빠른 효과를 경험하고 싶으신 경우</tspan>
+                </text>
+                <text id="여드름-흉터-및-알레르기성-피부질환으" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="22" font-weight="bold" fill="#555555">
+                    <tspan x="225" y="391">여드름 흉터 및 알레르기성 피부질환으로 고민인 경우</tspan>
+                </text>
+                <text id="색소침착-개선-및-피부리프팅-효과를" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="22" font-weight="bold" fill="#555555">
+                    <tspan x="225" y="551">색소침착 개선 및 피부리프팅 효과를 동시에 얻고 싶은 경우</tspan>
+                </text>
+                <rect id="Rectangle-4" fill="#AE8B59" x="100" y="271" width="95" height="60"></rect>
+                <rect id="Rectangle-4-Copy-6" fill="#AE8B59" x="100" y="431" width="95" height="60"></rect>
+                <rect id="Rectangle-4-Copy-2" fill="#8D7047" x="100" y="351" width="95" height="60"></rect>
+                <rect id="Rectangle-4-Copy-7" fill="#8D7047" x="100" y="511" width="95" height="60"></rect>
+                <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.5" x="105.5" y="276.5" width="84" height="49"></rect>
+                <rect id="Rectangle-4-Copy-8" stroke="#FFFFFF" opacity="0.5" x="105.5" y="436.5" width="84" height="49"></rect>
+                <rect id="Rectangle-4-Copy-3" stroke="#FFFFFF" opacity="0.5" x="105.5" y="356.5" width="84" height="49"></rect>
+                <rect id="Rectangle-4-Copy-9" stroke="#FFFFFF" opacity="0.5" x="105.5" y="516.5" width="84" height="49"></rect>
+                <text id="01." font-family="Montserrat-Bold, Montserrat" font-size="22" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="133.128" y="309">01.</tspan>
+                </text>
+                <text id="03." font-family="Montserrat-Bold, Montserrat" font-size="22" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="130.939" y="469">03.</tspan>
+                </text>
+                <text id="02." font-family="Montserrat-Bold, Montserrat" font-size="22" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="130.917" y="389">02.</tspan>
+                </text>
+                <text id="04." font-family="Montserrat-Bold, Montserrat" font-size="22" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="130.395" y="549">04.</tspan>
+                </text>
+                <polygon id="Rectangle-5" fill="#F3F1EE" opacity="0.600000024" points="60 143 450 143 450 185 60 185"></polygon>
+                <text id="당신의-피부를-다시-꽃피워-드립니다." font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="22" font-weight="bold" fill="#8D7047">
+                    <tspan x="69" y="174">" 당신의 피부를 다시 꽃피워 드립니다. "</tspan>
+                </text>
+                <text id="Check-Point" font-family="Montserrat-Bold, Montserrat" font-size="50" font-weight="bold" fill="#8D7047">
+                    <tspan x="806.675" y="79">Check Point</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

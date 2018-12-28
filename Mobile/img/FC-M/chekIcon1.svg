@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="26px" viewBox="0 0 25 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.374,13.3748333 C7.70233333,13.3748333 7.07233333,13.114 6.599,12.6398333 L4.33483333,10.3781667 C4.1115,10.1573333 4.1115,9.79983333 4.3315,9.57983333 C4.55066667,9.359 4.90983333,9.359 5.13316667,9.57733333 L7.39733333,11.839 C7.66066667,12.0998333 8.00566667,12.2456667 8.374,12.2456667 C8.74316667,12.2456667 9.08816667,12.0998333 9.349,11.8415 L15.2656667,5.99566667 C15.4856667,5.77733333 15.8431667,5.779 16.064,5.99983333 C16.284,6.22316667 16.2798333,6.58233333 16.059,6.8015 L10.1448333,12.6423333 C9.67566667,13.114 9.0465,13.3748333 8.374,13.3748333" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8-Copy-9" transform="translate(-15.000000, -1358.000000)">
+            <g id="Group-5" transform="translate(15.000000, 1358.000000)">
+                <rect id="Rectangle-12" stroke="#604B2E" opacity="0.200000003" x="0.5" y="0.5" width="24" height="25"></rect>
+                <g id="-round/ver1/control/check" transform="translate(2.272727, 2.826087)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="swatch/brown" mask="url(#mask-2)" fill="#8D7047" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="21" height="20"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

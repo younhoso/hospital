@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="542px" viewBox="0 0 700 542" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M679.424217,109.062302 L680,109.059518 L680,522 L0.575783235,522 L0.575783235,141.251786 L0,141.251786 L0,0 L12.0834941,0 C12.9004776,4.57784196 16.4351242,8.02566964 20.6828767,8.02566964 C24.9306291,8.02566964 28.4652758,4.57784196 29.2794517,0 L41.0878105,0 C41.9019865,4.57784196 45.4394406,8.02566964 49.6843856,8.02566964 C53.932138,8.02566964 57.4695922,4.57784196 58.2837681,0 L70.0949344,0 C70.9063029,4.57784196 74.443757,8.02566964 78.688702,8.02566964 C82.9364545,8.02566964 86.4739086,4.57784196 87.285277,0 L99.0964433,0 C99.9078118,4.57784196 103.445266,8.02566964 107.690211,8.02566964 C111.937963,8.02566964 115.475417,4.57784196 116.286786,0 L128.097952,0 C128.909321,4.57784196 132.446775,8.02566964 136.69172,8.02566964 C140.936665,8.02566964 144.476926,4.57784196 145.288295,0 L157.099461,0 C157.913637,4.57784196 161.451091,8.02566964 165.696036,8.02566964 C169.943789,8.02566964 173.481243,4.57784196 174.295419,0 L186.10097,0 C186.915146,4.57784196 190.455408,8.02566964 194.697545,8.02566964 C198.945298,8.02566964 202.482752,4.57784196 203.296928,0 L215.108094,0 C215.919462,4.57784196 219.459724,8.02566964 223.701862,8.02566964 C227.949614,8.02566964 231.487068,4.57784196 232.298437,0 L244.109603,0 C244.920971,4.57784196 248.461233,8.02566964 252.706178,8.02566964 C256.951123,8.02566964 260.488577,4.57784196 261.299945,0 L273.108304,0 C273.92248,4.57784196 277.457127,8.02566964 281.707687,8.02566964 C285.947017,8.02566964 289.490086,4.57784196 290.301454,0 L302.112621,0 C302.926797,4.57784196 306.464251,8.02566964 310.712003,8.02566964 C314.956948,8.02566964 318.494402,4.57784196 319.308578,0 L331.11413,0 C331.928306,4.57784196 335.468567,8.02566964 339.713512,8.02566964 C343.958457,8.02566964 347.495911,4.57784196 348.310087,0 L360.115638,0 C360.929814,4.57784196 364.470076,8.02566964 368.715021,8.02566964 C372.962774,8.02566964 376.49742,4.57784196 377.311596,0 L389.122762,0 C389.934131,4.57784196 393.474392,8.02566964 397.719337,8.02566964 C401.96709,8.02566964 405.501737,4.57784196 406.313105,0 L418.124271,0 C418.93564,4.57784196 422.473094,8.02566964 426.720846,8.02566964 C430.965791,8.02566964 434.503245,4.57784196 435.314614,0 L447.12578,0 C447.939956,4.57784196 451.47741,8.02566964 455.722355,8.02566964 C459.970108,8.02566964 463.504754,4.57784196 464.31893,0 L476.130097,0 C476.944273,4.57784196 480.481727,8.02566964 484.726672,8.02566964 C488.974424,8.02566964 492.511878,4.57784196 493.326054,0 L505.131606,0 C505.945781,4.57784196 509.483236,8.02566964 513.728181,8.02566964 C517.975933,8.02566964 521.513387,4.57784196 522.327563,0 L534.135922,0 C534.94729,4.57784196 538.487552,8.02566964 542.729689,8.02566964 C546.977442,8.02566964 550.514896,4.57784196 551.329072,0 L563.140238,0 C563.951607,4.57784196 567.491868,8.02566964 571.734006,8.02566964 C575.981758,8.02566964 579.519212,4.57784196 580.330581,0 L592.141747,0 C592.953116,4.57784196 596.493377,8.02566964 600.735515,8.02566964 C604.983267,8.02566964 608.520721,4.57784196 609.33209,0 L621.143256,0 C621.957432,4.57784196 625.497694,8.02566964 629.739831,8.02566964 C633.987584,8.02566964 637.525038,4.57784196 638.339214,0 L650.144765,0 C650.958941,4.57784196 654.499203,8.02566964 658.74134,8.02566964 C662.989093,8.02566964 666.526547,4.57784196 667.340723,0 L679.424217,0 L679.424217,109.062302 Z" id="path-1"></path>
+        <filter x="-2.2%" y="-2.9%" width="104.4%" height="105.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20_NoSe" transform="translate(-360.000000, -4438.000000)">
+            <g id="Group-17" transform="translate(370.000000, 4448.000000)">
+                <g id="Rectangle-9-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="RECOMMEND-Copy" font-family="Montserrat-Bold, Montserrat" font-size="35" font-weight="bold" fill="#8D7047">
+                    <tspan x="214" y="74">RECOMMEND</tspan>
+                </text>
+                <path d="M52.5,113.5 L52.5,162.5 L629.5,162.5 L629.5,113.5 L52.5,113.5 Z" id="Rectangle-4-Copy-10" stroke="#E9E9E9" fill="#FFFFFF"></path>
+                <path d="M52.5,243.5 L52.5,292.5 L629.5,292.5 L629.5,243.5 L52.5,243.5 Z" id="Rectangle-4-Copy-11" stroke="#E9E9E9" fill="#FFFFFF"></path>
+                <path d="M52.5,374.5 L52.5,423.5 L629.5,423.5 L629.5,374.5 L52.5,374.5 Z" id="Rectangle-4-Copy-22" stroke="#E9E9E9" fill="#FFFFFF"></path>
+                <path d="M52.5,178.5 L52.5,227.5 L629.5,227.5 L629.5,178.5 L52.5,178.5 Z" id="Rectangle-4-Copy-12" stroke="#E9E9E9" fill="#F8F8F8"></path>
+                <path d="M52.5,309.5 L52.5,358.5 L629.5,358.5 L629.5,309.5 L52.5,309.5 Z" id="Rectangle-4-Copy-13" stroke="#E9E9E9" fill="#F8F8F8"></path>
+                <text id="코의-길이가-얼굴-전체의-1/3보다" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" fill="#555555">
+                    <tspan x="165" y="144">코의 길이가 얼굴 전체의 1/3보다 짧은 경우</tspan>
+                </text>
+                <text id="코끝이-들려-올라가-콧구멍이-보이는" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" fill="#555555">
+                    <tspan x="165" y="274">코끝이 들려 올라가 콧구멍이 보이는 경우</tspan>
+                </text>
+                <text id="코끝과-입술각(비순각)이-110도-이" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" fill="#555555">
+                    <tspan x="165" y="405">코끝과 입술각(비순각)이 110도 이상인 경우</tspan>
+                </text>
+                <text id="코가-시작되는-비근부가-낮고-정상보다" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" fill="#555555">
+                    <tspan x="165" y="209">코가 시작되는 비근부가 낮고 정상보다 아래쪽에 있는 경우</tspan>
+                </text>
+                <text id="코가-짧아-얼굴이-납작해-보이는-경우" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" fill="#555555">
+                    <tspan x="165" y="340">코가 짧아 얼굴이 납작해 보이는 경우</tspan>
+                </text>
+                <rect id="Rectangle-4-Copy-14" fill="#AE8B59" x="50" y="113" width="95" height="50"></rect>
+                <rect id="Rectangle-4-Copy-15" fill="#AE8B59" x="50" y="243" width="95" height="50"></rect>
+                <rect id="Rectangle-4-Copy-23" fill="#AE8B59" x="50" y="374" width="95" height="50"></rect>
+                <rect id="Rectangle-4-Copy-16" fill="#8D7047" x="50" y="178" width="95" height="50"></rect>
+                <rect id="Rectangle-4-Copy-17" fill="#8D7047" x="50" y="308" width="95" height="50"></rect>
+                <rect id="Rectangle-4-Copy-18" stroke="#FFFFFF" opacity="0.5" x="55.5" y="118.5" width="84" height="39"></rect>
+                <rect id="Rectangle-4-Copy-19" stroke="#FFFFFF" opacity="0.5" x="55.5" y="248.5" width="84" height="39"></rect>
+                <rect id="Rectangle-4-Copy-24" stroke="#FFFFFF" opacity="0.5" x="55.5" y="379.5" width="84" height="39"></rect>
+                <rect id="Rectangle-4-Copy-20" stroke="#FFFFFF" opacity="0.5" x="55.5" y="183.5" width="84" height="39"></rect>
+                <rect id="Rectangle-4-Copy-21" stroke="#FFFFFF" opacity="0.5" x="55.5" y="314.5" width="84" height="39"></rect>
+                <text id="01.-copy" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="86.057" y="145">01.</tspan>
+                </text>
+                <text id="03.-copy" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="84.293" y="275">03.</tspan>
+                </text>
+                <text id="05." font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="84.176" y="406">05.</tspan>
+                </text>
+                <text id="02.-copy" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="84.185" y="210">02.</tspan>
+                </text>
+                <text id="04.-copy" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="83.15" y="341">04.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
