@@ -1061,6 +1061,8 @@ label ~ input[id="radio-2-1"]:checked {
 .marginTop--360 { margin: -360px 0 0 0; }
 .marginTop--310 { margin: -310px 0 0 0; }
 .marginTop--260 { margin: -260px 0 0 0; }
+.marginTop--240 { margin: -240px 0 0 0; }
+.marginTop--230 { margin: -230px 0 0 0; }
 .marginTop--220 { margin: -220px 0 0 0; }
 .marginTop--200 { margin: -200px 0 0 0; }
 .marginTop--180 { margin: -180px 0 0 0; }
@@ -1092,6 +1094,7 @@ label ~ input[id="radio-2-1"]:checked {
 .marginTop--36 { margin: -36px 0 0 0; }
 .marginTop--40 { margin: -40px 0 0 0; }
 .marginTop--50 { margin: -50px 0 0 0; }
+.marginTop--120 { margin-top: -120px; }
 .marginTop--150 { margin: -150px 0 0 0; }
 .marginTop-15 { margin: 15px 0 0 0; }
 .marginTop-5 { margin: 5px 0 0 0; }
@@ -9211,4 +9214,8 @@ input[id="bt4"] {
 .selectmenu_wrap-email.mypage::before {
     top: 45%;
     left: 573px;
+}
+
+.mypape-Border {
+    padding-left: 15px; 
 }
