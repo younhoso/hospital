@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="208px" height="114px" viewBox="0 0 208 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.7825,36.895 L46.5525,36.895 L46.5525,27.4825 L42.7825,27.4825 L42.7825,36.895 Z M29.405,47.6325 C28.365,47.6325 27.5225,46.7875 27.5225,45.745 C27.5225,44.715 28.365,43.87 29.405,43.87 C30.4425,43.87 31.29,44.715 31.29,45.745 C31.29,46.7875 30.4425,47.6325 29.405,47.6325 Z M13.3875,36.895 L17.1575,36.895 L17.1575,27.4825 L13.3875,27.4825 L13.3875,36.895 Z M48.2475,24.085 L46.51,24.085 C46.05,14.865 38.9025,7.5 30.1625,7.5 C21.415,7.5 14.2675,14.865 13.81,24.085 L11.6925,24.085 C10.7575,24.085 10,24.845 10,25.775 L10,38.585 C10,39.5275 10.7575,40.29 11.6925,40.29 L18.8525,40.29 C19.79,40.29 20.55,39.5275 20.55,38.585 L20.55,25.775 C20.55,24.845 19.79,24.085 18.8525,24.085 L17.2,24.085 C17.6475,16.74 23.28,10.895 30.1625,10.895 C37.04,10.895 42.6725,16.74 43.1175,24.085 L41.09,24.085 C40.1525,24.085 39.395,24.845 39.395,25.775 L39.395,38.585 C39.395,39.4625 40.06,40.155 40.905,40.2525 C39.5025,41.6975 37.26,43.345 34.2775,43.735 C33.485,41.825 31.6,40.4725 29.405,40.4725 C26.4975,40.4725 24.13,42.8425 24.13,45.745 C24.13,48.66 26.4975,51.0275 29.405,51.0275 C31.8175,51.0275 33.8375,49.3875 34.4625,47.1675 C40.5775,46.51 44.24,41.805 45.2675,40.29 L48.2475,40.29 C49.185,40.29 49.9425,39.5275 49.9425,38.585 L49.9425,25.775 C49.9425,24.845 49.185,24.085 48.2475,24.085 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main" transform="translate(-55.000000, -3461.000000)">
+            <g id="Group-10-Copy" transform="translate(55.000000, 3454.000000)">
+                <text id="ONLINE-CONSULTATION" font-family="Helvetica" font-size="18" font-weight="normal" fill="#544A43">
+                    <tspan x="0" y="120">ONLINE CONSULTATION</tspan>
+                </text>
+                <text id="온라인-상담" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="25" font-weight="bold" fill="#39322D">
+                    <tspan x="45" y="94">온라인 상담</tspan>
+                </text>
+                <g id="icon/counseling" transform="translate(76.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="swatch/dark-brown" mask="url(#mask-2)" fill="#544A43" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="63" height="60"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
