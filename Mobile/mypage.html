@@ -8,7 +8,7 @@
 </head>
 <body>
      <!-- 팝업 -->
-     <div class="IDpop-up" style="">
+     <div class="IDpop-up" style="display: none;">
         <div class="bg-fff width-290 center text-center  shadow">
             <div class="width-130 displayInBlock marginTop-40">
                 <img class="thumb" src="../PC/img/logo.svg" alt="logo">
@@ -63,42 +63,44 @@
                     </div>
                 </div>
                 <div class="clearfix padding-T-30 text-center">
-                    <div class="W-50 float-left text-center border-Top--LightBrown-3 border-bottom--gray-1 padding-TB-20 clearfix ">
-                        <h1 class="tit_18">회원정보 수정</h1>
+                    <div class="W-50 float-left text-center border-Top--LightBrown-3 border-bottom--gray-1 padding-TB-20 clearfix color-glay mypage-active">
+                        <h1 class="tit_18 ">회원정보 수정</h1>
                     </div>
-                    <div class="W-50 float-left bg-fff border-Top--LightBrown-3 border-bottom--gray-1 padding-TB-20 clearfix mypage-active">
-                        <h1 class="tit_18">회원탈퇴</h1>
+                    <div class="W-50 float-left bg-fff border-Top--LightBrown-3 border-bottom--gray-1 padding-TB-20 clearfix color-glay">
+                        <h1 class="tit_18 ">회원탈퇴</h1>
                     </div>
                 </div>
 
-                <div style="display: none">
+                <div >
                     <div class="text-left color-lightbrown marginLeft-20 padding-TB-20">
                         <h1 class="fontWight-600 tit_18 marginBottom-20">회원정보</h1>
                         <i class="displayblock width_105 marginLeft--20 border-Top--LightBrown-3"></i>
                     </div>
                     <div class="marginLeft-20">
-                        <h2>아이디</h2>
-                        <p class="color-lightbrown">ADMON_1234</p>
-                        <p class="color-red">*아이디는 변경할 수 없습니다.</p>
+                        <h2 class="tit_16">아이디</h2>
+                        <div class="padding-T-10">
+                            <p class="color-lightbrown fontWight-600 line-height-14">ADMON_1234</p>
+                            <p class="color-red line-height-14">*아이디는 변경할 수 없습니다.</p>
+                        </div>
                     </div>
                     <form action="/" onsubmit="return ">
                         <div class="l_wrapper">
                             <div class="text-left">
-                                <label for="reg_mb_id" class="displayblock blind marginTop-20 marginBottom-20 tit_18 fontWight-600 color-glay">비밀번호</label>
+                                <label for="reg_mb_id" class="displayblock blind marginTop-20 marginBottom-10 tit_18 fontWight-600 color-glay">비밀번호</label>
                                 <input type="text" class="displayblock width_100 join_cheak_id padding-TBL-10 tit_18" required="" placeholder="비밀번호를 입력해주세요." autofocus="on" aria-describedby="emailHelp">
                             </div>
                             <div class="text-left">
-                                <label for="reg_mb_id" class="displayblock blind marginTop-20 marginBottom-20 tit_18 fontWight-600 color-glay">비밀번호 확인</label>
+                                <label for="reg_mb_id" class="displayblock blind marginTop-20 marginBottom-10 tit_18 fontWight-600 color-glay">비밀번호 확인</label>
                                 <input type="text" class="displayblock width_100 join_cheak_id padding-TBL-10 tit_18" required="" placeholder="비밀번호를 입력해주세요." autofocus="on" aria-describedby="emailHelp">
                             </div>
                             <div class="text-left">
-                                <label for="reg_mb_id" class="displayblock blind marginTop-20 marginBottom-20 tit_18 fontWight-600 color-glay">이름</label>
+                                <label for="reg_mb_id" class="displayblock blind marginTop-20 marginBottom-10 tit_18 fontWight-600 color-glay">이름</label>
                                 <input type="text" class="displayblock width_100 join_cheak_id padding-TBL-10 tit_18" required="" autofocus="on" aria-describedby="emailHelp">
                             </div>
 
                             <div class="padding-TB-15 text-center">
-                                <label for="reg_mb_password" class="displayblock blind tit_18 text-left fontWight-600 color-glay">연락처</label>
-                                <div class="displayInBlock width_31 selectmenu_wrap-number customSign-Up">
+                                <label for="reg_mb_password" class="displayblock blind tit_18 text-left marginBottom-10 fontWight-600 color-glay">연락처</label>
+                                <div class="displayInBlock width_30 selectmenu_wrap-number customSign-Up">
                                     <select name="" class="pristine padding10 tit_16 width_100">
                                         <option value="010">010</option>
                                         <option value="011">011</option>
@@ -108,12 +110,12 @@
                                         <option value="019">019</option>
                                     </select>
                                 </div>
-                                -
+                                ‒
                                 <div class="displayInBlock width_30">
                                     <input type="text" class=" tit_18 padding-TBL-10 width_100">
                                 </div>
-                                -
-                                <div class="displayInBlock width_31">
+                                ‒
+                                <div class="displayInBlock width_29">
                                 <input type="text" class=" tit_18 padding-TBL-10  width_100">
                                 </div>
                             </div>
@@ -122,7 +124,7 @@
                                 <label for="reg_mb_password" class="displayblock text-left blind marginBottom-10 tit_18 fontWight-600 color-glay">이메일</label>
                                 <input type="text" class="displayInBlock width_46 join_cheak_id padding-TBL-10 tit_18 "> <span class="displayInBlock opacity-40">@</span>
                                 
-                                <div class="displayInBlock width_46 id-search-M selectmenu_wrap-email ">
+                                <div class="displayInBlock width_47 id-search-M selectmenu_wrap-email ">
                                     <select name="items1" class="width_100 displayInBlock pristine join_cheak_id padding-TBL-10 tit_18" id="">
                                         <option value="직직접입력접입">직접입력</option>
                                         <option value="">naver</option>
@@ -146,12 +148,10 @@
                                 <input id="radio-2-1" type="radio" name="SMS" class="radio-custom tit_18 marginLeft-50 displayInBlock">
                                 <label class="tit_18 displayInBlock">수신 거부</label>
                             </div>
-
-                            <i class="displayblock width_107 marginTop-30 marginLeft--15 border-Top--gray-1"></i>
                         </div>
-                        <i class="displayblock border-bottom--gray-5 marginBottom-30"></i>
+                        <i class="displayblock border-bottom--lightglay-5 marginBottom-30"></i>
                         <div>
-                            <h2 class="tit_18 padding-B-20 color-lightbrown marginLeft-20">회원정보</h2>
+                            <h2 class="tit_18 padding-B-20 color-lightbrown border-bottom--lightglay-5 marginLeft-20">회원정보</h2>
                         </div>
                         <i class="displayblock border-Top--LightBrown-5 marginBottom-30"></i>
                         <div class="l_wrapper">
@@ -177,7 +177,7 @@
                 </div>
 
 
-                <div>
+                <div style="display: none">
                     <div class="text-left color-lightbrown marginLeft-20 padding-TB-20">
                         <h1 class="fontWight-600 tit_18 marginBottom-20">회원탈퇴</h1>
                         <i class="displayblock width_105 marginLeft--20 border-Top--LightBrown-3"></i>
