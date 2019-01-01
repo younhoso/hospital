@@ -1076,6 +1076,7 @@ label ~ input[id="radio-2-1"]:checked {
 .height-553 { height: 553px; }
 .height-580 { height: 580px; }
 .min-height-600 { min-height: 600px; }
+.min-height-720 { min-height: 720px; }
 .height-740 { height: 740px; }
 .height-750 { height: 750px; }
 .height-770 { height: 770px; }
@@ -9089,7 +9090,14 @@ input[id="bt4"] {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-
+.main-side-hide{
+    opacity: 0;
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    -o-transition: all 0.25s ease-in-out;
+    transition: all 0.25s ease-in-out;
+}
+.main-side > div:hover .main-side-hide{opacity: 1;}
 
 /*
 ----------------------------------------
