@@ -398,6 +398,7 @@ p, td { line-height: 1.8; }
 .color-glay2 { color: rgba(85, 85, 85, 0.4); }
 .color-yellow { color: #FFCF7F; }
 .color-lightbrown { color: #8D7047; }
+.color-lightbrown-RGBA { color: rgba(141, 112, 71, 0.1); }
 .color-Medium { color: #6C573A; }
 .color-sowtbrown { color: #5F4B2F; }
 .color-darkbrown { color: #39322D; }
@@ -897,6 +898,7 @@ p, td { line-height: 1.8; }
 .width-150 { width: 150px; }
 .width-155 { width: 155px; }
 .width-160 { width: 160px; }
+.width-167 { width: 167px; }
 .width-170 { width: 170px; }
 .width-180 { width: 180px; }
 .width-200 { width: 200px; }
@@ -913,6 +915,7 @@ p, td { line-height: 1.8; }
 .width-322 { width: 322px; }
 .width-315 { width: 315px; }
 .width-355 { width: 355px; }
+.width-360 { width: 360px; }
 .width-380 { width: 380px; }
 .width-384 { width: 384px; }
 .width-385 { width: 385px; }
@@ -1118,6 +1121,7 @@ label ~ input[id="radio-2-1"]:checked {
 .marginTop--160 { margin: -160px 0 0 0; }
 .marginTop--90 { margin: -90px 0 0 0; }
 .marginTop--80 { margin: -80px 0 0 0; }
+.marginTop--48 { margin: -48px 0 0 0; }
 .marginTop-80Left--30 { margin: 80px 0 0 -30px; }
 .marginTopBottom-20 { margin: 20px 0; }
 .marginTopBottom-30 { margin: 30px 0; }
@@ -1139,6 +1143,7 @@ label ~ input[id="radio-2-1"]:checked {
 .marginTop--30 { margin: -30px 0 0 0; }
 .marginTop--35 { margin: -35px 0 0 0; }
 .marginTop--36 { margin: -36px 0 0 0; }
+.marginTop--38 { margin: -38px 0 0 0; }
 .marginTop--45 { margin: -45px 0 0 0; }
 .marginTop--40 { margin: -40px 0 0 0; }
 .marginTop--50 { margin: -50px 0 0 0; }
@@ -1238,6 +1243,7 @@ label ~ input[id="radio-2-1"]:checked {
 .marginLeft-190 { margin-left: 190px; }
 .marginLeft-200 { margin-left: 200px; }
 .marginLeft-210 { margin-left: 210px; }
+.marginLeft-220 { margin-left: 220px; }
 .marginLeft-215 { margin-left: 215px; }
 .marginLeft-230 { margin-left: 230px; }
 .marginLeft-250 { margin-left: 250px; }
@@ -1293,11 +1299,17 @@ label ~ input[id="radio-2-1"]:checked {
 { box-sizing: border-box; 
 -webkit-box-sizing: border-box; }
 .padding0 { padding: 0; }
+.padding2 { padding: 2px; }
 .padding5 { padding: 5px; }
 .padding10 { padding: 10px; }
 .padding11 { padding: 11px; }
 .padding15 { padding: 15px; }
+.padding17 { padding: 17px; }
+.padding18 { padding: 18px; }
 .padding20 { padding: 20px; }
+.padding21_5 { padding: 21.5px; }
+.padding22 { padding: 22px; }
+.padding22_5 { padding: 22.5px; }
 .padding-TRBL-10 { padding: 10px; }
 .padding-TRBL-15 { padding: 15px; }
 .padding-TRBL-19 { padding: 19px; }
@@ -1421,6 +1433,8 @@ label ~ input[id="radio-2-1"]:checked {
 .padding-TB-7 { padding: 7px 0; }
 .padding-TB-10 { padding: 10px 0; }
 .padding-TB-15 { padding: 15px 0; }
+.padding-TB-17 { padding: 17px 0; }
+.padding-TB-18 { padding: 18px 0; }
 .padding-TB-20 { padding: 20px 0; }
 .padding-TB-25 { padding: 25px 0; }
 .padding-TB-26 { padding: 26px 0; }
@@ -3740,6 +3754,10 @@ label ~ input[id="radio-2-1"]:checked {
     margin-left: 3.5em;
 }
 
+.border--line.left3::after {
+    margin-left: 5em;
+}
+
 .border--line.right::after {
     margin-left: -220px;
 }
@@ -3762,6 +3780,7 @@ label ~ input[id="radio-2-1"]:checked {
     -o-transform: rotate(-45deg);
     margin: 0 0 0 1.2em;
 }
+.border--diagonal.left::after {margin: 0 0 0 0.5em;}
 
 .border-top__transparent {
     border: 1px solid transparent;
@@ -6770,7 +6789,6 @@ label ~ input[id="radio-2-1"]:checked {
 }
 
 .contents__footer.BT {
-    height: 300px;
     text-align: center;
     background-color: #F7F7F7;
 }
@@ -6779,7 +6797,6 @@ label ~ input[id="radio-2-1"]:checked {
     width: 800px;
     display: inline-block;
     text-align: center;
-    margin: 210px 0 0 0;
 }
 
 .contents__footer.BT .contents__footer--model img {
@@ -6802,7 +6819,7 @@ label ~ input[id="radio-2-1"]:checked {
     position: absolute;
     top: 0;
     left: 0;
-    margin: 11em 0 0 0;
+    margin-top: 50px;
 }
 
 .contents__body__h1.right {
@@ -6811,7 +6828,7 @@ label ~ input[id="radio-2-1"]:checked {
     position: absolute;
     top: 0;
     right: 0;
-    margin: 11em 0 0 0;
+    margin-top: 50px;
 }
 
 /*
@@ -7092,10 +7109,6 @@ label ~ input[id="radio-2-1"]:checked {
     height: 510px;
     border-top: 1px solid transparent;
     margin: 0;
-}
-
-.contents__footer.BT {
-    height: 350px;
 }
 
 /*
@@ -8100,6 +8113,13 @@ label ~ input[id="radio-2-1"]:checked {
     height: unset;
     padding: 35px 0 50px 0;
 }
+/*
+----------------------------------------
+   모바일 Twisted-Eye-Correction 컨텐츠 디자인
+----------------------------------------
+*/
+
+.TEC-M-padding {padding: 95px 40px;}   
 
 /*
 ----------------------------------------
@@ -9069,6 +9089,7 @@ input[id="bt4"] {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+
 
 /*
 ----------------------------------------
