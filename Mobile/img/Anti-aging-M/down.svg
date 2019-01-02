@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="8px" viewBox="0 0 16 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title> round/ver1/menu/line copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.137,8.66920064 L20.137,8.68570465 C20.1349317,8.85632346 20.0686984,9.02643159 19.9383,9.15683 L14.6993,14.39483 C14.1333,14.96483 13.3773,15.27783 12.5713,15.27783 C11.7653,15.27783 11.0093,14.96483 10.4403,14.39483 L5.1983,9.15683 C5.07210473,9.03063473 5.00600473,8.86724842 5,8.70220045 L5,8.65271112 C5.00600473,8.48768594 5.07210473,8.32454906 5.1983,8.19883 C5.4633,7.93383 5.8943,7.93383 6.1593,8.19883 L11.3993,13.43783 C12.0243,14.06383 13.1183,14.06083 13.7383,13.43483 L18.9803,8.19883 C19.2453,7.93383 19.6743,7.93383 19.9383,8.19883 C20.0686984,8.32873634 20.1349317,8.49859453 20.137,8.66920554 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-320" transform="translate(-286.000000, -116.000000)">
+            <g id="-round/ver1/control/bottom" transform="translate(281.000000, 108.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="swatch/gray" mask="url(#mask-2)" fill="#959595" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="25" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

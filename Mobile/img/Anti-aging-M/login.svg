@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/home/1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.6592,11.6699 L13.6332,11.6699 C15.4562,11.6699 16.9392,13.1469 16.9392,14.9729 L16.9392,20.2539 L6.3562,20.2539 L6.3562,14.9729 C6.3562,13.1469 7.8362,11.6699 9.6592,11.6699 M11.6452,4.3539 C13.1422,4.3539 14.3632,5.5699 14.3632,7.0699 C14.3632,8.5639 13.1422,9.7869 11.6452,9.7869 C10.1492,9.7869 8.9312,8.5639 8.9312,7.0699 C8.9312,5.5699 10.1492,4.3539 11.6452,4.3539 M18.294,14.9294456 L18.294,20.9476322 C18.2852574,21.3129598 17.9909899,21.6066009 17.626953,21.6128 L17.6127064,21.6128 C17.6036849,21.6120903 17.5953622,21.6078162 17.5862,21.6069 L5.7052,21.6069 C5.69603783,21.6078162 5.68855456,21.6120903 5.67967372,21.6128 L5.67449541,21.6128 C5.66484544,21.6120903 5.65736217,21.6078162 5.6482,21.6069 L5.4852,21.6069 L5.4852,21.5739 C5.2062,21.4899 5.0002,21.2399 5.0002,20.9309 L5.0002,14.9729 C5.0002,12.5389 6.8822,10.5579 9.2612,10.3519 C8.2452,9.6109 7.5762,8.4199 7.5762,7.0699 C7.5762,4.8209 9.4032,2.9999 11.6452,2.9999 C13.8892,2.9999 15.7182,4.8209 15.7182,7.0699 C15.7182,8.4199 15.0492,9.6109 14.0322,10.3519 C16.3990148,10.5566727 18.2717695,12.5153587 18.294,14.9294456 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="menu-320" transform="translate(-20.000000, -31.000000)">
+            <g id="header_top_menu" transform="translate(15.000000, 28.000000)">
+                <g id="icon/login">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="swatch/white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="25" height="24"></rect>
+                    </g>
+                    <g id="white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
