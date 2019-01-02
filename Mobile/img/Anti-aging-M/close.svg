@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title> round/ver1/menu/line</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.3148645,17.6725979 L10.197875,11.5556083 C9.82245833,11.1801917 9.82245833,10.5738583 10.197875,10.1984417 C10.571875,9.823025 11.179625,9.823025 11.5550417,10.1984417 L17.6719605,16.3153605 L23.7882417,10.1984417 C24.1636583,9.823025 24.7714083,9.823025 25.1454083,10.1984417 C25.520825,10.5738583 25.520825,11.1801917 25.1454083,11.5556083 L19.0291271,17.6725271 L25.1465417,23.7899417 C25.5205417,24.1639417 25.5205417,24.7716917 25.1465417,25.1471083 C24.9595417,25.3341083 24.715875,25.4304417 24.4679583,25.4304417 C24.2200417,25.4304417 23.976375,25.3341083 23.789375,25.1471083 L17.6720312,19.0297645 L11.555325,25.1471083 C11.368325,25.3341083 11.1246583,25.4304417 10.8767417,25.4304417 C10.628825,25.4304417 10.3809083,25.3341083 10.1981583,25.1471083 C9.82274167,24.7716917 9.82274167,24.1639417 10.1981583,23.7899417 L16.3148645,17.6725979 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-320" transform="translate(-280.000000, -32.000000)">
+            <g id="-round/ver1/control/delete" transform="translate(271.000000, 23.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#231916" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="swatch/white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="35" height="34"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
