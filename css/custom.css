@@ -455,7 +455,7 @@ p, td { line-height: 1.8; }
 ----------------------------------
 */
 .CROSE-BTN {
-    padding: 1.5em 1.6em;
+    padding: 1.9em 1.6em;
     cursor: pointer;
     background-color: #8D7047;
 }
@@ -850,12 +850,15 @@ p, td { line-height: 1.8; }
     display: block;
     border-color: rgba(141, 112, 71, 0.3) transparent transparent transparent;
 }
+.width_5 { width: 5%; }
 .width_120 { width: 120%; }
 .width_110 { width: 110%; }
 .width_107 { width: 107%; }
 .width_105 { width: 105%; }
 .width_100 { width: 100%; }
-.width_5 { width: 5%; }
+.width_90 { width: 90%; }
+.width_80 { width: 80%; }
+.width_85 { width: 85%; }
 .width_15 { width: 15%; }
 .width_20 { width: 20%; }
 .width_25 { width: 25%; }
@@ -1134,6 +1137,7 @@ label ~ input[id="radio-2-1"]:checked {
 .marginTop--160 { margin: -160px 0 0 0; }
 .marginTop--90 { margin: -90px 0 0 0; }
 .marginTop--80 { margin: -80px 0 0 0; }
+.marginTop--70 { margin: -70px 0 0 0; }
 .marginTop--48 { margin: -48px 0 0 0; }
 .marginTop-80Left--30 { margin: 80px 0 0 -30px; }
 .marginTopBottom-20 { margin: 20px 0; }
@@ -1297,7 +1301,10 @@ label ~ input[id="radio-2-1"]:checked {
 .marginBottom-100 { margin-bottom: 100px; }
 .marginBottom-290 { margin-bottom: 290px; }
 .marginBottom-340 { margin-bottom: 340px; }
+.marginBottom--57 { margin-bottom: -57px; }
+.marginBottom--58 { margin-bottom: -58px; }
 .marginBottom--60 { margin-bottom: -60px; }
+.marginBottom--61 { margin-bottom: -61px; }
 .marginBottom--80 { margin-bottom: -80px; }
 .marginBottom--130 { margin-bottom: -130px; }
 .marginBottom--160 { margin-bottom: -160px; }
